@@ -1,4 +1,4 @@
-let input = 7;
+let input = Math.floor(Math.random() * 10); // returns a random integer between 0 and 10;
 
 switch (input) {
     case 1:
